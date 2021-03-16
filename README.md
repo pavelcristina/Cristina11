@@ -8,5 +8,6 @@ Computational Background Skills for Digital Humanities
 * Margherita
 * Calzone
 
-| Option | Description |
+| Cat | Dog |
 | ------ | ----------- |
+| little | fluffy |
