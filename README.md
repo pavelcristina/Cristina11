@@ -3,11 +3,11 @@ Computational Background Skills for Digital Humanities
 #  My name is Cristina
 ## I am from Romania
 ---
-**I love pizza**
-* Tonno et cipola
-* Margherita
-* Calzone
+**I love **
+* a
+* b
+* c
 
-| Cat | Dog |
+| 4| 5 |
 | ------ | ----------- |
-| little | fluffy |
+| little | ig |
